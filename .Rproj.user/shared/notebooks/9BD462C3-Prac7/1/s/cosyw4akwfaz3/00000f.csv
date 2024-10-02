@@ -1,3 +1,0 @@
-"0","write_stream(stream, ""data.csv"", n = 100, sep = "","")"
-"0","stream_data = DSD_ReadStream(""data.csv"")"
-"0","get_points(stream_data, n=5)"
