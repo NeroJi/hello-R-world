@@ -1,0 +1,5 @@
+"0","p <- get_points(stream, n = 10, class = TRUE)"
+"2",".nodots(...)里有警告:"
+"2"," Unknown arguments: class = TRUE
+"
+"0","p"
